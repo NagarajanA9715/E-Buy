@@ -2,7 +2,7 @@ from users.user_controller import register_user
 from products.product_controller import list_products
 
 def main():
-    print("Welcome to E-Buy!")
+    print("Welcome to E-Buy Purchase!")
     register_user()
     list_products()
 
